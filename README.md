@@ -1,56 +1,219 @@
-<h1 align="center">Hi 👋, I'm Kartik Dixit</h1>
-<h3 align="center">An SDET (Automation QA Engineer) passionate about delivering high-quality software</h3>
+<!-- ═══════════════════════════════════════════════════════════════
+     KARTIK DIXIT · SDET-II · AI-AUGMENTED AUTOMATION ENGINEER
+     kartikdixitwork@gmail.com · github.com/kartikdixit · @kartikdixit03
+     ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdixit03&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdixit03" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikdixit03" alt="kartikdixit03" /></a> </p>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║   SDET-II  ·  AUTOMATION ENGINEER  ·  AI-AUGMENTED TEST SYSTEMS          ║
+║   FinTech · Travel · Mobile · API · Distributed Backends · CI/CD         ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <a href="https://twitter.com/kartikd84269256" target="blank"><img src="https://img.shields.io/twitter/follow/kartikd84269256?logo=twitter&style=for-the-badge" alt="kartikd84269256" /></a> </p>
+# Kartik Dixit
 
-- 🔭 I’m currently working as **SDET (Automation QA Engineer) at Tiket.com**, ensuring seamless software quality across **web and mobile platforms**.
+### `Automation Engineer & Testing Systems Architect`
 
-- 🌱 I’m currently learning **API automation with Rest Assured** and enhancing skills in **Charles Proxy** and **Firebase**.
+**I build automation systems that validate software contracts at scale —**<br>
+**not test cases that pass on a lucky day.**
 
-- 💬 Ask me about **Java, Selenium, Appium, TestNG, Maven, API testing, or automation frameworks**.
+*Mobile · API · Backend-first · CI-integrated · Observability-driven*
 
-- 📫 How to reach me: **kartikdixit37093@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikdixit)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartikdixitwork@gmail.com)
+[![Twitter](https://img.shields.io/badge/@kartikdixit03-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kartikdixit03)
 
-- ⚡ Fun fact: I’m a fitness enthusiast who believes in balancing code and workouts!
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kartikdixit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kartikdixit03" height="30" width="40" /></a>
-<a href="https://twitter.com/kartikd84269256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikd84269256" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikdixit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikdixit03" height="30" width="40" /></a>
-<a href="https://kaggle.com/kartikxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikxd" height="30" width="40" /></a>
-<a href="https://instagram.com/kartikx.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikx.d" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikdixit37093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikdixit37093" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kartik996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kartik996" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kartik11915171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartik11915171" height="30" width="40" /></a>
-</p>
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="appium" width="40" height="40"/> </a>
-<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="rest-assured" width="40" height="40"/> </a> 
-<a href="https://jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+## `$ cat kartik.yaml`
+
+```yaml
+# 3+ years · mobile · api · backend · fintech · travel
+
+identity:
+  name:        "Kartik Dixit"
+  role:        "SDET-II / Automation Engineer"
+  philosophy:  "Validate the contract. Own the pipeline. Ship with confidence."
+
+current:
+  company:  "Airtel Payments Bank"
+  scope:    "Channel Platform · Airtel Thanks Ecosystem"
+  focus:
+    - "Orchestration-layer microservice validation"
+    - "Audience segmentation + dynamic rendering testing"
+    - "Inter-service API contracts + response mapping"
+    - "Backend-driven banking journeys (Homepage, Login, MPIN, Profile)"
+
+domains:
+  fintech:  "Payments · KYC · Banking · Transaction integrity"
+  travel:   "Fare aggregation · Booking orchestration · Order lifecycle"
+
+ai_augmentation:
+  llm_test_generation:    true       # scenario synthesis for edge-case coverage
+  self_healing_locators:  true       # DOM drift recovery without manual rework
+  flakiness_prediction:   "ML-signal model trained on Jenkins CI history"
+  anomaly_detection:      "Kibana log correlation + automated alert thresholds"
+```
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kartikdixit03&show_icons=true&locale=en" alt="kartikdixit03" />
-</p>
+## ⚙ Automation Stack
+
+**Core Frameworks**
+
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-009688?style=flat-square&logo=java&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=flat-square&logo=testing-library&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-0891B2?style=flat-square&logo=mobile&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+
+**CI / Infra / Observability**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white)
+![LambdaTest](https://img.shields.io/badge/LambdaTest-171717?style=flat-square&logo=lambdatest&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+**Backend / Data / Debug**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Aerospike](https://img.shields.io/badge/Aerospike-C6373C?style=flat-square&logo=aerospike&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-FAAD14?style=flat-square&logo=charles&logoColor=black)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-4CAF50?style=flat-square&logo=python&logoColor=white)
+
+**AI / Augmentation Layer**
+
+![LLM Test Gen](https://img.shields.io/badge/LLM_Test_Gen-6366F1?style=flat-square&logo=openai&logoColor=white)
+![Self Healing](https://img.shields.io/badge/Self--Healing_Locators-10B981?style=flat-square&logo=dependabot&logoColor=white)
+![Flakiness ML](https://img.shields.io/badge/Flakiness_ML-3B82F6?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP Assertions](https://img.shields.io/badge/NLP_Assertions-EC4899?style=flat-square&logo=huggingface&logoColor=white)
+
+---
+
+## 🏗 What I Build
+
+```
+automation/
+│
+├── ai-layer/
+│   ├── llm-test-generator          → scenario synthesis for edge-case + boundary coverage
+│   ├── self-healing-locators       → DOM drift recovery, zero manual rework required
+│   └── flakiness-predictor         → ML model trained on Jenkins CI execution history
+│
+├── mobile-automation/
+│   ├── appium-android-ios          → parallel execution on BrowserStack device grid
+│   ├── maestro-e2e                 → lightweight, readable mobile end-to-end flows
+│   └── firebase-event-validator    → event schema + param-level assertions at runtime
+│
+├── api-automation/
+│   ├── rest-assured-suites         → service-level assertions + JSON schema validation
+│   ├── orchestration-layer         → aggregation API + multi-service response stitching
+│   └── db-state-assertions         → MySQL + Redis + Aerospike state checks post-execution
+│
+├── backend-systems/
+│   ├── audience-manager-testing    → segmentation rules, eligibility, account-type logic
+│   ├── microservice-regression     → inter-service contracts, shared data flow validation
+│   └── dynamic-rendering-suite     → widget + layout validation per user cohort/persona
+│
+└── pipeline/
+    ├── jenkins-parallel            → thread-pool + matrix strategy, 1000+ scenario suite
+    ├── gitlab-ci-regression        → commit-triggered + nightly scheduled runs
+    └── kibana-allure-reporting     → log correlation, trace dashboards, flakiness trends
+```
+
+---
+
+## 📡 Current Focus
+
+```yaml
+# active research + shipping @ Airtel Payments Bank
+
+exploring:
+  ai_test_oracles:     "LLM-validated assertions for nested microservice response schemas"
+  grpc_automation:     "protobuf-level contract testing for internal platform services"
+  visual_regression:   "semantic UI drift detection after backend config changes"
+  test_observability:  "OpenTelemetry traces correlated with automation execution runs"
+  chaos_injection:     "fault injection within orchestration-layer regression flows"
+
+shipping:
+  channel_platform_suite: "full regression for Airtel Thanks banking journeys"
+  segment_validator:      "audience rule-engine contract + eligibility coverage"
+
+execution_model:
+  parallelism:    "TestNG thread-pools + BrowserStack device grid"
+  trigger:        "commit quality gate + nightly regression schedule"
+  reporting:      "Allure HTML + Kibana log correlation dashboards"
+  quality_gate:   "SonarQube static analysis + JaCoCo coverage enforcement"
+```
+
+---
+
+## ⬡ Engineering Principles
+
+```
+01  Test the backend contract. The UI is just a consequence.
+    └─ Orchestration-layer truth > rendered surface behavior.
+
+02  1000+ scenarios means nothing without CI integration.
+    └─ Automation that runs manually is expensive manual testing.
+
+03  Flakiness is a system signal. Treat it like a production bug.
+    └─ Triage with Kibana data. Fix the root cause, not the assertion.
+
+04  AI multiplies automation engineering. It doesn't replace it.
+    └─ LLMs for edge-case synthesis. Humans for system architecture.
+
+05  Coverage without observability is noise.
+    └─ Logs, traces, and dashboards are first-class automation outputs.
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikdixit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=10b981&text_color=94a3b8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikdixit&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=10b981&currStreakLabel=94a3b8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikdixit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=6)
+
+</div>
+
+---
+
+## 🔭 Open to High-Impact Roles
+
+```
+SDET-II  ·  Senior Automation Engineer  ·  Test Architect  ·  Platform QE
+FinTech  ·  Travel  ·  Platform Engineering  ·  Distributed Systems
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikdixit)
+[![Email](https://img.shields.io/badge/kartikdixitwork@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartikdixitwork@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_8840196616-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918840196616)
+
+</div>
+
+---
+
+<div align="center">
+<sub><code>automation-at-scale · ai-augmented-QE · systems-not-scripts · fintech-travel</code></sub>
+</div>

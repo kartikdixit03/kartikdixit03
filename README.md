@@ -1,56 +1,98 @@
-<h1 align="center">Hi 👋, I'm Kartik Dixit</h1>
-<h3 align="center">An SDET (Automation QA Engineer) passionate about delivering high-quality software</h3>
+<h1 align="center">Kartik Dixit</h1>
+<h3 align="center">SDET-II | Mobile Automation | API Validation | Backend Systems & Microservices Testing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdixit03&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdixit03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikdixit03" alt="kartikdixit03" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kartikd84269256" target="blank"><img src="https://img.shields.io/twitter/follow/kartikd84269256?logo=twitter&style=for-the-badge" alt="kartikd84269256" /></a> </p>
-
-- 🔭 I’m currently working as **SDET (Automation QA Engineer) at Tiket.com**, ensuring seamless software quality across **web and mobile platforms**.
-
-- 🌱 I’m currently learning **API automation with Rest Assured** and enhancing skills in **Charles Proxy** and **Firebase**.
-
-- 💬 Ask me about **Java, Selenium, Appium, TestNG, Maven, API testing, or automation frameworks**.
-
-- 📫 How to reach me: **kartikdixit37093@gmail.com**
-
-- ⚡ Fun fact: I’m a fitness enthusiast who believes in balancing code and workouts!
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kartikdixit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kartikdixit03" height="30" width="40" /></a>
-<a href="https://twitter.com/kartikd84269256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikd84269256" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikdixit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikdixit03" height="30" width="40" /></a>
-<a href="https://kaggle.com/kartikxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikxd" height="30" width="40" /></a>
-<a href="https://instagram.com/kartikx.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikx.d" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikdixit37093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikdixit37093" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kartik996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kartik996" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kartik11915171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartik11915171" height="30" width="40" /></a>
+<p align="center">
+Building scalable quality engineering solutions for backend-driven platforms, orchestration-layer microservices, and high-traffic payment systems.
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="appium" width="40" height="40"/> </a>
-<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="rest-assured" width="40" height="40"/> </a> 
-<a href="https://jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> </a>
+## Engineering Focus
+
+SDET-II with 3+ years of experience across FinTech and Travel domains, specializing in automation architecture, backend-driven validation, and distributed system testing.
+
+Current areas of focus:
+
+* Mobile automation at scale using Appium
+* API contract and orchestration-layer validation
+* Backend-driven UI testing
+* Firebase analytics and event verification
+* CI/CD-integrated regression systems
+* Dynamic rendering and audience segmentation validation
+* Release quality engineering for Android, iOS, Web, and API ecosystems
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![Appium](https://img.shields.io/badge/Appium-47297C?style=for-the-badge\&logo=appium\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-009688?style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-E33332?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+
+---
+
+## Backend & Platform Engineering
+
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-black?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API-Validation-blue?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Analytics-orange?style=for-the-badge\&logo=firebase)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge\&logo=kibana\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## CI/CD & Quality Engineering
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge\&logo=github)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-CloudTesting-orange?style=for-the-badge)
+![LambdaTest](https://img.shields.io/badge/LambdaTest-RealDevices-blue?style=for-the-badge)
+
+---
+
+## Core Contributions
+
+* Validating orchestration-layer microservices powering backend-driven banking experiences inside the Airtel Thanks ecosystem.
+* Testing aggregation layers combining static configurations with dynamic backend responses across personalized customer journeys.
+* Performing system-level backend validation for audience segmentation, dynamic rendering logic, and response orchestration flows.
+* Building scalable automation frameworks for Android, iOS, Web, and API ecosystems using Appium, Selenium, TestNG, and Rest Assured.
+* Managing large-scale regression validation across payment workflows, booking systems, and order lifecycle platforms.
+* Performing Firebase analytics validation, event tracking verification, and backend debugging using Kibana, Charles Proxy, and internal APIs.
+* Integrating automated regression pipelines into Jenkins-based CI/CD workflows for faster release validation.
+
+---
+
+## Current Projects
+
+* Backend-driven UI validation framework
+* Orchestration-layer API testing utilities
+* Mobile automation framework optimization
+* Analytics and event validation tooling
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikdixit03&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikdixit03&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kartikdixit03&show_icons=true&locale=en" alt="kartikdixit03" />
-</p>
+## Connect
+
+* LinkedIn: [www.linkedin.com/in/kartik-dixit](http://www.linkedin.com/in/kartik-dixit)
+* Email: [kartikdixitwork@gmail.com](mailto:kartikdixitwork@gmail.com)
